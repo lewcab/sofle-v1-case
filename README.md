@@ -1,6 +1,6 @@
 # Sofle V1 Case
 
-Quick project of a modular case for a [Sofle V1](https://github.com/josefadamcik/SofleKeyboard) split keyboard to learn Computer-Aided Design. Created to simply clamp overtop of the original plates. 
+Quick project of a modular case for a [Sofle V1](https://github.com/josefadamcik/SofleKeyboard) split keyboard to learn Computer-Aided Design in SolidWorks. Created to simply clamp overtop of the original plates. 
 
 ## Other Components
 
