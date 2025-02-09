@@ -8,5 +8,5 @@ Quick project of a modular case for a [Sofle V1](https://github.com/josefadamcik
 
 ## TODO:
 
-- [ ] Detachable wrist rest
+- [x] Detachable wrist rest
 - [ ] Tenting
