@@ -4,7 +4,7 @@ Quick project of a modular case for a [Sofle V1](https://github.com/josefadamcik
 
 ## Other Components
 
-- ⌀3×1 mm magnets (x20)
+- ⌀3×1 mm magnets (x32 + x12 for wrist rest)
 
 ## TODO:
 
